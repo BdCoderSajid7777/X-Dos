@@ -12,5 +12,8 @@ cd X-Dos
 pip install -r requirements.txt
 ```
 ```
+clear
+```
+```
 python dos.py
 ```
